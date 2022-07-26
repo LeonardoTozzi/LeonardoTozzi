@@ -16,7 +16,7 @@
  
  <br>
  
- ##Redes Sociais abaixo!
+ ## Redes Sociais abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/leonardo-tozzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
