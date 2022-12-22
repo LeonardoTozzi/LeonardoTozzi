@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do LeonardoTozzi 😁
+## Bem-vindo(a) ao perfil do Leonardo Tozzi 😁
 
  <div>
    <a href="https://github.com/LeonardoTozzi">
