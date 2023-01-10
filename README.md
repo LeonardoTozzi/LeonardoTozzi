@@ -1,10 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leonardo+Tozzi;I'm+19+years+old;I+am+from+Osasco,+SP;Be+Welcome!💻)](https://git.io/typing-svg)
- <div>
-   <a href="https://github.com/LeonardoTozzi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoTozzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTozzi&layout=compact&langs_count=6&theme=dark"/>
+
+![LeonardoTozzi GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTozzi&show_icons=true&theme=midnight-purple&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTozzi&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D11117)&nbsp;
@@ -22,6 +24,6 @@
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&section=footer"/>
 
 </div>
