@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
-![Snake animation](https://github.com/Dannmenezes/Dannmenezes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeonardoTozzi/LeonardoTozzi/blob/output/github-contribution-grid-snake.svg)
  
 
  <br>
