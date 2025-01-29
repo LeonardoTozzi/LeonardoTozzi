@@ -9,6 +9,8 @@
 
 ## Linguagens e ferramentas
 <div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="css3 logo"  />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" height="38" alt="codeigniter" />
    <img width="7" />      
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="php logo"  />
