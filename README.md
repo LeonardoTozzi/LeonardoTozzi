@@ -1,4 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0a0a0&section=header"/>
+
+# Olá, eu sou Leonardo Tozzi! 👋
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardotozzi&show_icons=true&locale=en&layout=compact&theme=dark" alt="leonardotozzi" /></p>
 
@@ -36,11 +38,12 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
 
+
 </div>
  
 
  <br>
- 
+
  
 
   
