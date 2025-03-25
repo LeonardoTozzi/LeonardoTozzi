@@ -1,18 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0a0a0&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leonardo+Tozzi;I'm+21+years+old;I+am+from+Brazil,+SP;Be+Welcome!💻)](https://git.io/typing-svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardotozzi&show_icons=true&locale=en&layout=compact&theme=swift" alt="leonardotozzi" /></p>
 
-![LeonardoTozzi GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTozzi&show_icons=true&theme=midnight-purple&count_private=true)
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardotozzi&show_icons=true&locale=en&theme=swift" alt="leonardotozzi" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTozzi&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Redes Sociais abaixo!
- 
 <div> 
-  <a href="https://www.linkedin.com/in/leonardo-tozzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:leonardotozzis@gmail.com" target="_blank"><img
-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<br/>
+ <a href="https://www.linkedin.com/in/leonardo-tozzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luan-porphirio/" height="30" width="40" /></a>
+ <img width="7" />
+ <a href="mailto:leonardotozzis@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
  
 ## Linguagens e ferramentas
 <div align="left">
@@ -47,6 +45,6 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0a0a0&section=footer"/>
 
 </div>
