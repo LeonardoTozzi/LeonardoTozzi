@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a0a0a0&section=header"/>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardotozzi&show_icons=true&locale=en&layout=compact&theme=swift" alt="leonardotozzi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardotozzi&show_icons=true&locale=en&layout=compact&theme=dark" alt="leonardotozzi" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardotozzi&show_icons=true&locale=en&theme=swift" alt="leonardotozzi" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardotozzi&show_icons=true&locale=en&theme=dark" alt="leonardotozzi" /></p>
 
 
 
